@@ -5,6 +5,7 @@ const { save } = require('../src/lib');
 // to test api
 const request = require('supertest');
 
+// to avoid to save real data
 jest.mock('../src/lib', () => ({
   save: jest.fn(),
 }));
