@@ -24,4 +24,8 @@ Course by Alex Banks
 - Working with Express, the web server framework
 - Handling POST and DELETE requests
 - Creating WebSockets
+  1. https://www.npmjs.com/package/ws for testing and local activity
+  2. https://socket.io/ for actual browser interaction
+     - build browser clients
+     - build cli clients
 - Testing and debugging Node.js code
