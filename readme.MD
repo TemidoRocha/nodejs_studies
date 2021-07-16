@@ -29,3 +29,4 @@ Course by Alex Banks
      - build browser clients
      - build cli clients
 - Testing and debugging Node.js code
+- webpack, babel, babel-jest
